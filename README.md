@@ -6,11 +6,11 @@ AIのまどのアプリと更新版を配布するページです。ソースコ
 
 ## ダウンロード
 
-[Windows版 v1.3.128 をダウンロード（ZIP）](https://github.com/brandsmasaki-lang/ai-no-mado-releases/releases/download/windows-v1.3.128/AI-no-mado-1.3.128-windows-x64.zip)
+[Windows版 v1.3.129 をダウンロード（ZIP）](https://github.com/brandsmasaki-lang/ai-no-mado-releases/releases/download/windows-v1.3.129/AI-no-mado-1.3.129-windows-x64.zip)
 
-Windows x64向けの公開プレビュー版です。ZIPをすべて展開し、「AIのまどを開く.cmd」をダブルクリックしてください。スタートメニューへ登録する場合は「Install-candidate.cmd」を開きます。
+Windows 11（x64）向けです。ZIPをすべて展開し、「AIのまどをインストール.cmd」を開き、「インストール」を押してください。完了したら「AIのまどを開く」を押します。
 
-[この版の案内・チェックサム](https://github.com/brandsmasaki-lang/ai-no-mado-releases/releases/tag/windows-v1.3.128)
+[この版の案内・チェックサム](https://github.com/brandsmasaki-lang/ai-no-mado-releases/releases/tag/windows-v1.3.129)
 
 ## 更新
 
